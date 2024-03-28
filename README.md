@@ -8,9 +8,9 @@ pip install -r requirements.txt
 
 ## Download data
 ```bash
-.\clone_kplib.bat
+git clone https://github.com/likr/kplib
 ```
-Data: [here](https://github.com/likr/kplib)
+
 
 ## Run
 **Step 1:** Run ```testmaker.py``` script to determine the number of suitable files for execution. All these files will be stored in the ```MyTest``` folder.
