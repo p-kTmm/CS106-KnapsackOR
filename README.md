@@ -23,7 +23,8 @@ python testmaker.py
 python knapsackOR.py
 ```
 
-## Structure
+## File Structure
+```
 Knapsack_OR/
 │
 ├── testmaker.py
@@ -39,3 +40,4 @@ Knapsack_OR/
     ├── (All files are chosen)
     ├── ...
     └── ...
+```
