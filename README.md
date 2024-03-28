@@ -22,3 +22,20 @@ python testmaker.py
 ```bash
 python knapsackOR.py
 ```
+
+## Structure
+Knapsack_OR/
+│
+├── testmaker.py
+│
+├── knapsackOR.py
+│
+├── kplib/
+│   ├── (data)
+│   ├── ...
+│   └── ...
+│
+└── MyTest/
+    ├── (All files are chosen)
+    ├── ...
+    └── ...
