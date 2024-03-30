@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## Download data
 ```bash
-git clone https://github.com/likr/kplib
+git clone https://github.com/likr/kplib.git
 ```
 
 
