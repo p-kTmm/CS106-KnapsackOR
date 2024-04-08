@@ -1,4 +1,4 @@
-# Knapsack CS106
+# Knapsack CS106 (https://github.com/p-kTmm/CS106-KnapsackOR)
 
 ## Installation
 Python >= ```3.9```
